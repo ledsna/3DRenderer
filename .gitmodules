@@ -1,0 +1,7 @@
+[submodule "dependencies/SFML"]
+	path = dependencies/SFML
+	url = https://github.com/SFML/SFML.git
+[submodule "dependencies/eigen"]
+	path = dependencies/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+
