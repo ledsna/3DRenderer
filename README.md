@@ -1,5 +1,9 @@
 # 3D Renderer
 
+<img width="1280" height="798" alt="image" src="https://github.com/user-attachments/assets/13a2d74a-f3c4-41a3-bf54-c14df4cccee0" />
+<img width="1280" height="798" alt="image" src="https://github.com/user-attachments/assets/8573b2c6-dd8c-46d0-909d-4f2549817b2a" />
+<img width="1280" height="798" alt="image" src="https://github.com/user-attachments/assets/9ca233fd-dcac-4ec3-a0e3-d7376abae980" />
+
 CPU-based 3D rendering engine with Blinn-Phong shading, shadow mapping, and interactive UI.
 
 ## Prerequisites
